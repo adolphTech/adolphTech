@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 
+[![wakatime](https://wakatime.com/badge/user/468137c5-61af-4c91-a9d1-a0854ba126c4.svg)](https://wakatime.com/@468137c5-61af-4c91-a9d1-a0854ba126c4)
+
 - 🔭 I’m currently working on  making an ecommerce system using node js
 - 🌱 I’m currently learning ...express and Mongo DB
 - 👯 I’m looking to collaborate on ...anything javaScript
