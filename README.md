@@ -1,11 +1,6 @@
 <h1 align="center">👋, I'm Adolph Odhiambo</h1>
 <h3 align="center">A passionate Computer Scientist and software Engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adolphtech&label=Profile%20views&color=0e75b6&style=flat" alt="adolphtech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adolphtech" alt="adolphtech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adolp_h" target="blank"><img src="https://img.shields.io/twitter/follow/adolp_h?logo=twitter&style=for-the-badge" alt="adolp_h" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
